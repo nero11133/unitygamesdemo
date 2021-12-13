@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.4587
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity3D Game\TowerDefense\TowerDefense_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.882148 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 400c -> priority: 1 
+  Thread -> id: 1784 -> priority: 1 
+  Thread -> id: 7eb4 -> priority: 1 
+  Thread -> id: 5960 -> priority: 1 
+  Thread -> id: 6758 -> priority: 1 
+  Thread -> id: 3e04 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.616422 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1918.
+Total: 0.462684 ms (FindLiveObjects: 0.044606 ms CreateObjectMapping: 0.030476 ms MarkObjects: 0.357126 ms  DeleteObjects: 0.030476 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.790895 ms
+
+Unloading 243 unused Assets to reduce memory usage. Loaded Objects now: 437.
+Total: 0.628364 ms (FindLiveObjects: 0.056519 ms CreateObjectMapping: 0.019116 ms MarkObjects: 0.193385 ms  DeleteObjects: 0.359065 ms)
+
